@@ -1,2 +1,5 @@
 # 001_Test
- Teste para criaçãod e repositórios no Git
+ Teste para criação de repositórios no Git
+
+ 001 - Teste commit
+
